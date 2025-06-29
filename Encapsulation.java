@@ -1,0 +1,32 @@
+class encap {
+    private int age;
+    private String name;
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+}
+
+public class Encapsulation {
+    public static void main(String[] args) {
+        encap obj1 = new encap();
+        obj1.setAge(22);
+        obj1.setName("Aditya");
+        System.out.println(obj1.getAge());
+        System.out.println(obj1.getName());
+
+    }
+}
