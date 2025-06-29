@@ -1,13 +1,9 @@
 interface Vehicle {
-    public static final int mileage;
+    public static final int mileage = 100;
 
     public abstract void accelerate();
 
     public abstract void deaccelerate();
-
-    public void static set(int mileage){
-        this.mileage = mileage ; 
-    }
 
     public static void accessinterface() {
         System.out.println("From interface only");
