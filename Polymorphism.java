@@ -63,7 +63,7 @@ public class Polymorphism {
         // overriden by child
         Animal doggy = new Dog("Mils");
         doggy.sayHello();
-        doggy.saybye(); // Not Accessible
+        // doggy.saybye(); // Not Accessible
 
         Animal catty = new Cat("Bils");
         catty.sayHello();
