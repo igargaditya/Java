@@ -7,8 +7,8 @@ Constructor
 4 Pillars of OOPS
 
 1. Encapsulation
-2. Inheritance
-3. PolyMorphism
+2. Inheritance - Single, Multi, Hierarchical
+3. PolyMorphism - Runtime and compile time
 4. Abstraction
 
 Keywords
@@ -17,6 +17,18 @@ Keywords
 2. Final
 
 Interface
+
+1. Abstract Methods
+2. Static Final variables
+3. Default Methods
+4. Static Methods
+
+Inner Class
+
+1. Local Inner Class
+2. Method Inner Class
+3. Anonymous Inner Class
+4. Static Nested Class
 
 Wrapper Classes
 
