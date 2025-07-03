@@ -40,4 +40,4 @@ Exceptions
 2. Syntax Error
 3. Compile time Error - Arithmetic Exception, Out of bounds Exception, NullPointer Exceptions
 
-Link to Notes - https://docs.google.com/document/d/1JgcdnXrDVfedvc_BXIZoap5MArbdSA9hnUb-icUZFGQ/edit?usp=sharing
+Generics
