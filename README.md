@@ -45,3 +45,5 @@ Generics
 Weak and Strong References
 
 String, StringBuffer, StringBuilder
+
+Notes - https://docs.google.com/document/d/1JgcdnXrDVfedvc_BXIZoap5MArbdSA9hnUb-icUZFGQ/edit?usp=sharing
