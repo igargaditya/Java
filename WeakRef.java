@@ -1,7 +1,9 @@
 import java.lang.ref.WeakReference;
 
 class Phone {
+    @SuppressWarnings("unused")
     private String name;
+    @SuppressWarnings("unused")
     private String model;
 
     public Phone(String name, String model) {
