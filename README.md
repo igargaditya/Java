@@ -41,3 +41,7 @@ Exceptions
 3. Compile time Error - Arithmetic Exception, Out of bounds Exception, NullPointer Exceptions
 
 Generics
+
+Weak and Strong References
+
+String, StringBuffer, StringBuilder
